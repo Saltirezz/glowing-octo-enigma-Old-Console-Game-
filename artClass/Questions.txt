@@ -1,0 +1,4 @@
+Draw a non-filled square in the middle of a 5x5 grid
+Draw a non-filled circle with radius 5 in a 1x1 grid
+Draw a non-filled rectangle in a 2x2 grid
+Draw a black filled square at the top middle of a 25x25 grid

@@ -1,0 +1,4 @@
+Return the sum of 2 numbers
+Spam "Hello World" every second
+Count the vowels
+Count the ones in a binary representation of an integer
